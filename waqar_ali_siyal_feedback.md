@@ -1,0 +1,6 @@
+
+Feedback
+The online session on "Introduction to git and github" was my first session and I found it very helpful. I always wanted to learn alot about git and github and for this I saw many online videos as well as gone through different lectures. But, I never got a proper track through which I can learn about it. This session helped me clear all my concepts as well as made me learn to contribute in open source projects which was my aim to learn in this session. In short, this was helpful to emerge my self in github.
+I must appreciate the efforts of Mr. Vivek who conducted the whole session enthusiastically. During lecture, he said that it was his first session but after listening and learning from him, it didn't seem that he was conducting the session for the firtst time. He faced internet issues which caused sound problem but he was trying with his voice to get much clear to make us understand.
+Response from Mr. Vivek, Mursal Bhai and Sir Owais throughout the session was amazing. All members of the online session tried hard to make this successfull and useful for all the students.
+I wish to have such helpful, emerging and intellectual sessions in future.
